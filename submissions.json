@@ -1,0 +1,18 @@
+{
+  "123456789": {
+      "file_name": "document.pdf",
+      "file_path": "received_files/pending/document.pdf",
+      "phone_number": "+1234567890",
+      "print_type": "color",
+      "description": "Please print on both sides.",
+      "status": "pending"
+  },
+  "987654321": {
+      "file_name": "image.png",
+      "file_path": "received_files/pending/image.png",
+      "phone_number": "+0987654321",
+      "print_type": "bw",
+      "description": "Single-sided print.",
+      "status": "approved"
+  }
+}
